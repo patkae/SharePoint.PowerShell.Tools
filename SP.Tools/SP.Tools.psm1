@@ -3,3 +3,5 @@
 
 . $PSScriptRoot\SPList.ps1
 . $PSScriptRoot\Get-SPClaimProvider.ps1
+. $PSScriptRoot\SPClaimProvider.ps1
+. $PSScriptRoot\SPClaimProviderSearch.ps1
