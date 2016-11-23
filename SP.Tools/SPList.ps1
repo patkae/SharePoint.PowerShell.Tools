@@ -100,3 +100,7 @@ function Select-SPFieldValue
 	    }
     }
 }
+
+Export-ModuleMember -Function `
+	Get-SPFieldInfo, `
+	Select-SPFieldValue
